@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @odeliap
-- 👀 I’m interested in physics, computer science, and astronomy!
-- 🌱 I’m currently learning about machine learning and robotics
+- 👀 I’m interested in astronomy, physics, and computer science!
+- 🌱 I’m currently learning about front-end engineering (my experience has previously been very back-end heavy!)
 - 📫 reach me by email: odeliaputterman@gmail.com
 
 <!---
